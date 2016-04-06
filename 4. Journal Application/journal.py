@@ -1,5 +1,3 @@
-
-
 def load(name):
     #  TODO: Populate from file if it exists.
     return []
